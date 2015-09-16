@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說法印經
+#+DATE: 2015-08-30 19:31:37.217729
+#+PROPERTY: JUAN 0
