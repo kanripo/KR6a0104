@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:31:37.415484
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:38
 #+TITLE: 佛說法印經
 #+PROPERTY: CBETA_ID T02n0104
 #+PROPERTY: ID KR6a0104
